@@ -36,11 +36,11 @@ I have a strong passion for emerging technologies and enjoy exploring the latest
 
 ## Projects
 
-- **[LangChain PDF Chatbot](https://github.com/prajwalhp15/langchain-pdf-chatbot)** – Ask questions to any PDF using AI-powered retrieval  
-- **[ExplainMyCar](https://github.com/prajwalhp15/explainmycar)** – Car price predictor with SHAP-based model explainability  
-- **[ePhotoBooth](https://github.com/prajwalhp15/ephotobooth)** – Create & download Polaroid-style images  
-- **[Komala Scented Supari](https://github.com/prajwalhp15/Komala-Scented-Supari)** – Static site for a local business  
-- **[Car Rental System](https://github.com/prajwalhp15/Car-Rental-System)** – Python-based car rental management app
+- [Komala Scented Supari Website](https://github.com/prajwalhp15/komala-supari-web) – A commercial static website for a local brand.
+- [Personal Portfolio Website](https://github.com/prajwalhp15/prajwalhp.github.io) – Responsive site built with HTML, CSS, JS.
+- [ExplainMyCar](https://github.com/prajwalhp15/ExplainMyCar) – SHAP-based car price predictor with model interpretability.
+- [LangChain PDF Chatbot](https://github.com/prajwalhp15/langchain-pdf-chatbot) – Ask questions from any PDF using LangChain & LLMs.
+
 
 ---
 
