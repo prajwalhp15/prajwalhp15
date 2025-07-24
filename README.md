@@ -3,6 +3,9 @@
 I'm an engineering student specializing in Artificial Intelligence & Machine Learning, now shifting focus to **Data Analytics**.
 
 My journey started with building ML-powered tools using GenAI, SHAP, and LangChain. Over time, I developed a deeper interest in turning raw data into insights through analytics and visualizations. I enjoy solving real-world problems by combining logic, design, and clear storytelling.
+Currently exploring data pipelines, dashboards, and everything in between.
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalhp15)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prajwal_h_p?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
