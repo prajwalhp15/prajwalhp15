@@ -1,9 +1,10 @@
 # Hi, I'm Prajwal
+I'm an engineering student specializing in Artificial Intelligence & Machine Learning, currently shifting my focus toward Data Analytics.
 
-I'm an engineering student specializing in Artificial Intelligence & Machine Learning, now shifting focus to **Data Analytics**.
+My journey began with building AI-powered tools using GenAI, SHAP, and LangChain, which sparked my curiosity about how data drives decision-making. Over time, I realized I enjoy uncovering insights, visualizing patterns, and solving real-world problems with clarity and logic.
+Now, I'm exploring data pipelines, interactive dashboards, and everything in between — combining clean design, storytelling, and analytical thinking to create meaningful solutions.
 
-My journey started with building ML-powered tools using GenAI, SHAP, and LangChain. Over time, I developed a deeper interest in turning raw data into insights through analytics and visualizations. I enjoy solving real-world problems by combining logic, design, and clear storytelling.
-Currently exploring data pipelines, dashboards, and everything in between.
+I have a strong passion for emerging technologies and enjoy exploring the latest innovations in the tech world. I'm always excited to connect with curious minds, collaborate on impactful ideas, and be part of building what’s next.
 
 ---
 
@@ -11,7 +12,7 @@ Currently exploring data pipelines, dashboards, and everything in between.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prajwal_h_p?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://prajwalhp15.github.io/prajwalhp.github.io)
 [![GitHub Followers](https://img.shields.io/github/followers/prajwalhp15?label=Follow&style=for-the-badge)](https://github.com/prajwalhp15)
-[![GitHub Stars](https://img.shields.io/github/stars/prajwalhp15?style=for-the-badge)](https://github.com/prajwalhp15)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
