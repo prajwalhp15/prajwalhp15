@@ -2,7 +2,7 @@
 I'm an engineering student specializing in Artificial Intelligence & Machine Learning, currently shifting my focus toward Data Analytics.
 
 My journey began with building AI-powered tools using GenAI, SHAP, and LangChain, which sparked my curiosity about how data drives decision-making. Over time, I realized I enjoy uncovering insights, visualizing patterns, and solving real-world problems with clarity and logic.
-Now, I'm exploring data pipelines, interactive dashboards, and everything in between — combining clean design, storytelling, and analytical thinking to create meaningful solutions.
+Now, I'm exploring data pipelines, interactive dashboards, and everything in between combining clean design, storytelling, and analytical thinking to create meaningful solutions.
 
 I have a strong passion for emerging technologies and enjoy exploring the latest innovations in the tech world. I'm always excited to connect with curious minds, collaborate on impactful ideas, and be part of building what’s next.
 
