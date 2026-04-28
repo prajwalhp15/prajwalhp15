@@ -36,11 +36,19 @@ I’m passionate about emerging technologies and continuously exploring new tool
 
 ## Projects
 
-- [Komala Scented Supari Website](https://github.com/prajwalhp15/komala-supari-web) – A commercial static website for a local brand.
-- [Personal Portfolio Website](https://github.com/prajwalhp15/prajwalhp.github.io) – Responsive site built with HTML, CSS, JS.
-- [ExplainMyCar](https://github.com/prajwalhp15/ExplainMyCar) – SHAP-based car price predictor with model interpretability.
-- [LangChain PDF Chatbot](https://github.com/prajwalhp15/langchain-pdf-chatbot) – Ask questions from any PDF using LangChain & LLMs.
+##  Key Projects
 
+-  **[Document Q&A System](https://github.com/prajwalhp15/document-qa)** – RAG-based application to query PDFs using FAISS, local embeddings, and LLM inference (Ollama)
+
+-  **[GradeMateAI](https://github.com/prajwalhp15/GradeMateAI)** – AI-powered academic grading system with automated evaluation and intelligent feedback  
+
+-  **[Heart Health App](https://github.com/prajwalhp15/heart-health-app)** – Machine learning system for predicting health risks and generating insights  
+
+-  **[SpelloAI](https://github.com/prajwalhp15/SpelloAI)** – High-performance spell correction engine for Romanized Indic languages using phonetic matching and edit distance  
+
+-  **[Rainwise](https://github.com/prajwalhp15/Rainwise)** – Intelligent rainwater harvesting assessment system with feasibility analysis and cost insights  
+
+-  **[Cyber Knowledge Graph](https://github.com/prajwalhp15/cybersecurity-in-6G-Network)** – Neo4j-based graph system integrating cybersecurity datasets for threat analysis  
 
 ---
 
