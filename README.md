@@ -8,6 +8,12 @@ Now, I'm focused on building production-ready ML applications combining strong f
 I’m passionate about emerging technologies and continuously exploring new tools in the ML ecosystem. Always open to collaborating on impactful projects and building meaningful solutions.
 
 ---
+**AI and Machine Learning Intern – [Formaculture](https://formaculture.com/) (Apr 2026 – Present)**  
+Developing AI-driven features and backend systems for client applications, focusing on MVP development and scalable solutions.
+
+---
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-hp)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prajwal_h_p?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
