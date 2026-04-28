@@ -1,10 +1,11 @@
 # Hi, I'm Prajwal
-I'm an engineering student specializing in Artificial Intelligence & Machine Learning, currently shifting my focus toward Data Analytics.
+I'm an engineering student specializing in Artificial Intelligence & Machine Learning, currently focusing on Machine Learning Engineering.
 
-My journey began with building AI-powered tools using GenAI, SHAP, and LangChain, which sparked my curiosity about how data drives decision-making. Over time, I realized I enjoy uncovering insights, visualizing patterns, and solving real-world problems with clarity and logic.
-Now, I'm exploring data pipelines, interactive dashboards, and everything in between combining clean design, storytelling, and analytical thinking to create meaningful solutions.
+My journey began with building AI-powered tools using GenAI, SHAP, and LangChain, which sparked my interest in developing scalable and practical ML systems. Over time, I became more interested in how models are built, deployed, and integrated into real-world applications. I enjoy working on end-to-end ML pipelines, model optimization, and backend systems that bring intelligent solutions to life.
 
-I have a strong passion for emerging technologies and enjoy exploring the latest innovations in the tech world. I'm always excited to connect with curious minds, collaborate on impactful ideas, and be part of building what’s next.
+Now, I'm focused on building production-ready ML applications combining strong fundamentals, clean architecture, and efficient deployment strategies to solve real-world problems.
+
+I’m passionate about emerging technologies and continuously exploring new tools in the ML ecosystem. Always open to collaborating on impactful projects and building meaningful solutions.
 
 ---
 
