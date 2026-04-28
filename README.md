@@ -50,7 +50,7 @@ Developing AI-driven features and backend systems for client applications, focus
 
 -  **[SpelloAI](https://github.com/prajwalhp15/SpelloAI)** – High-performance spell correction engine for Romanized Indic languages using phonetic matching and edit distance  
 
--  **[Rainwise](https://github.com/prajwalhp15/Rainwise)** – Intelligent rainwater harvesting assessment system with feasibility analysis and cost insights  
+-  **[Hologram Arcade](https://github.com/prajwalhp15/Hologramarcade3D)** – Computer vision-based interactive 3D system using MediaPipe hand tracking and Three.js for real-time gesture-controlled holographic interactions
 
 -  **[Cyber Knowledge Graph](https://github.com/prajwalhp15/cybersecurity-in-6G-Network)** – Neo4j-based graph system integrating cybersecurity datasets for threat analysis  
 
