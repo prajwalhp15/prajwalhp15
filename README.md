@@ -8,7 +8,7 @@ Now, I'm focused on building production-ready ML applications combining strong f
 I’m passionate about emerging technologies and continuously exploring new tools in the ML ecosystem. Always open to collaborating on impactful projects and building meaningful solutions.
 
 ---
-**AI and Machine Learning Intern – [Formaculture](https://formaculture.com/) (Apr 2026 – Present)**  
+**AI and Machine Learning Intern – [Formaculture](https://formaculture.com/) (Dec 2025 – Present)**  
 Developing AI-driven features and backend systems for client applications, focusing on MVP development and scalable solutions.
 
 ---
